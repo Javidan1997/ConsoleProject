@@ -1,0 +1,13 @@
+C:\Users\acer\Desktop\ConsoleProject\ConsoleProject1\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\ConsoleProject\ConsoleProject1\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\ConsoleProject\ConsoleProject1\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.AssemblyInfo.cs
+C:\Users\acer\Desktop\ConsoleProject\ConsoleProject1\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\ConsoleProject\ConsoleProject1\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.exe
+C:\Users\acer\Desktop\ConsoleProject\ConsoleProject1\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.deps.json
+C:\Users\acer\Desktop\ConsoleProject\ConsoleProject1\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.runtimeconfig.json
+C:\Users\acer\Desktop\ConsoleProject\ConsoleProject1\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.runtimeconfig.dev.json
+C:\Users\acer\Desktop\ConsoleProject\ConsoleProject1\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.dll
+C:\Users\acer\Desktop\ConsoleProject\ConsoleProject1\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.pdb
+C:\Users\acer\Desktop\ConsoleProject\ConsoleProject1\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.dll
+C:\Users\acer\Desktop\ConsoleProject\ConsoleProject1\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.pdb
+C:\Users\acer\Desktop\ConsoleProject\ConsoleProject1\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.genruntimeconfig.cache
